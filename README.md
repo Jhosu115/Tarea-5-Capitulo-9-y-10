@@ -24,6 +24,19 @@ Ing. Darwin Omar Alulema Flores
 
 # 1 OBJETIVOS
 
+## Objetivo Principal 
+
+•	Analizar el capítulo 9 y capítulo 10 del libro a través una lectura comprensiva y de información seleccionada de internet para resolver los ejercicios planteados por el libro, obteniendo experiencia y agilidad al resolverlos además mejorando el entendimiento de los temas tratados en los capítulos mencionados
+
+## Objetivos Específicos
+
+1.	Interpretar la información que nos brinda el libro y el internet para la resolución de los ejercicios planteados.
+
+
+2.	Enunciar los conceptos básicos de los temas de mayor importancia de los capítulos 9 y 10 para colocarlos en un mapa mental que facilitara el entendimiento de los temas tratados
+
+3.	Calcular los ejercicios planteados en el libro de manera coherente y detallada para un mejor desarrollo del problema. 
+
 # 2. MARCO TEORICO
 
 # **3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS**
