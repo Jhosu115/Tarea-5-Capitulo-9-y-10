@@ -43,11 +43,28 @@ Ing. Darwin Omar Alulema Flores
 
 # **3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS**
 
-[Ejercicios Resueltos](https://github.com/Jhosu115/Tarea-4/blob/main/EJERCICIOS%20Tarea%204.pdf)
+[Ejercicios Resueltos](https://github.com/Jhosu115/Tarea-5-Capitulo-9-y-10/blob/main/Explicación%20de%20ejercicios%20Tarea%205.pdf)
 
 # 4. VIDEO
 
 
 # 5. CONCLUSIONES
 
+•	Analizamos los capítulos 9 y 10 del libro utilizando información del libro y de internet de esta se logró resolver los ejercicios planteados en estos capítulos además se mejoró la comprensión de los temas más relevantes de estos capítulos 
+
 # 6. BIBLIOGRAFÍAS
+
+Pereira-Arroyo, R. (2016). Teorema de Norton.
+
+Boylestad, R. L. (2004). Introducción al análisis de circuitos. Pearson Educación.
+
+de Millman, T. D. N. T. CIRCUITOS I.
+
+Rocha, J. (2013). Redes thévenin y norton.
+
+Ruíz Vázquez, T., Fraile, J., Nilsson, J. W., & Riedel, S. (2004). Análisis básico de circuitos eléctricos y electrónicos. Universitario, 76.
+
+Rolle, J. L. C. (2004). Teoremas de Thevenin y Norton con OrCad. Revista española de electrónica, (601), 48-49.
+
+Marín-Roig Ramón, J. (2018). Equivalente Thevening y Norton.
+
