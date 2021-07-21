@@ -39,6 +39,8 @@ Ing. Darwin Omar Alulema Flores
 
 # 2. MARCO TEORICO
 
+![image](https://github.com/Jhosu115/Tarea-5-Capitulo-9-y-10/blob/main/WhatsApp%20Image%202021-07-20%20at%209.05.18%20PM.jpeg)
+
 # **3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS**
 
 # 4. VIDEO
